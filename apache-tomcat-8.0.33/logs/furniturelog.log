@@ -1,0 +1,5 @@
+2016-11-30 23:38:24 INFO  com.opensymphony.xwork2.config.providers.XmlConfigurationProvider - Parsing configuration file [struts-default.xml]
+2016-11-30 23:38:24 INFO  com.opensymphony.xwork2.config.providers.XmlConfigurationProvider - Parsing configuration file [struts-plugin.xml]
+2016-11-30 23:38:24 INFO  com.opensymphony.xwork2.config.providers.XmlConfigurationProvider - Parsing configuration file [struts.xml]
+2016-11-30 23:38:24 INFO  com.opensymphony.xwork2.config.impl.DefaultConfiguration - Overriding property struts.configuration.xml.reload - old value: false new value: true
+2016-11-30 23:38:24 INFO  org.apache.struts2.config.BeanSelectionProvider - Loading global messages from messageResource

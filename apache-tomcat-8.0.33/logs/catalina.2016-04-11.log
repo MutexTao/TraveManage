@@ -1,0 +1,140 @@
+11-Apr-2016 15:13:40.216 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.33
+11-Apr-2016 15:13:40.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 18 2016 20:31:49 UTC
+11-Apr-2016 15:13:40.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.33.0
+11-Apr-2016 15:13:40.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+11-Apr-2016 15:13:40.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+11-Apr-2016 15:13:40.217 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\jdk1.8u74\jre
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_74-b02
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apache-tomcat-8.0.33
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-8.0.33
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|nkl-PC
+11-Apr-2016 15:13:40.218 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apache-tomcat-8.0.33\conf\logging.properties
+11-Apr-2016 15:13:40.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Apr-2016 15:13:40.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\apache-tomcat-8.0.33\endorsed
+11-Apr-2016 15:13:40.219 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apache-tomcat-8.0.33
+11-Apr-2016 15:13:40.220 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-8.0.33
+11-Apr-2016 15:13:40.220 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apache-tomcat-8.0.33\temp
+11-Apr-2016 15:13:40.220 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.5 using APR version 1.5.1.
+11-Apr-2016 15:13:40.220 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-Apr-2016 15:13:41.043 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2g  1 Mar 2016)
+11-Apr-2016 15:13:41.505 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:13:41.521 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:13:41.527 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1938 ms
+11-Apr-2016 15:13:41.593 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+11-Apr-2016 15:13:41.593 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.33
+11-Apr-2016 15:13:41.608 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\docs
+11-Apr-2016 15:13:42.405 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [438] milliseconds.
+11-Apr-2016 15:13:42.435 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\docs has finished in 826 ms
+11-Apr-2016 15:13:42.436 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\examples
+11-Apr-2016 15:13:42.868 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\examples has finished in 433 ms
+11-Apr-2016 15:13:42.868 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\host-manager
+11-Apr-2016 15:13:42.915 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\host-manager has finished in 47 ms
+11-Apr-2016 15:13:42.916 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\manager
+11-Apr-2016 15:13:42.954 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\manager has finished in 38 ms
+11-Apr-2016 15:13:42.954 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\ROOT
+11-Apr-2016 15:13:42.981 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\ROOT has finished in 27 ms
+11-Apr-2016 15:13:42.988 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:13:43.012 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:13:43.018 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1490 ms
+11-Apr-2016 15:17:53.829 WARNING [http-apr-8088-exec-7] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:54.638 WARNING [http-apr-8088-exec-9] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:55.285 WARNING [http-apr-8088-exec-2] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:55.977 WARNING [http-apr-8088-exec-6] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:56.622 WARNING [http-apr-8088-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:57.235 WARNING [http-apr-8088-exec-8] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:57.891 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:59.051 WARNING [http-apr-8088-exec-1] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:59.230 WARNING [http-apr-8088-exec-6] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:59.410 WARNING [http-apr-8088-exec-5] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:59.572 WARNING [http-apr-8088-exec-7] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:59.733 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:17:59.898 WARNING [http-apr-8088-exec-2] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:18:00.076 WARNING [http-apr-8088-exec-6] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:18:00.294 WARNING [http-apr-8088-exec-5] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:18:00.445 WARNING [http-apr-8088-exec-7] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:18:00.586 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:18:01.493 WARNING [http-apr-8088-exec-2] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:33.769 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:38.595 WARNING [http-apr-8088-exec-6] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:39.532 WARNING [http-apr-8088-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:40.180 WARNING [http-apr-8088-exec-9] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:40.771 WARNING [http-apr-8088-exec-7] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:41.461 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:57.694 WARNING [http-apr-8088-exec-6] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:58.315 WARNING [http-apr-8088-exec-5] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:58.838 WARNING [http-apr-8088-exec-9] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:59.376 WARNING [http-apr-8088-exec-7] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:19:59.938 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:00.478 WARNING [http-apr-8088-exec-4] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:00.947 WARNING [http-apr-8088-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:01.492 WARNING [http-apr-8088-exec-8] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:01.949 WARNING [http-apr-8088-exec-7] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:02.198 WARNING [http-apr-8088-exec-10] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:02.489 WARNING [http-apr-8088-exec-4] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:02.754 WARNING [http-apr-8088-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:03.100 WARNING [http-apr-8088-exec-8] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:03.655 WARNING [http-apr-8088-exec-1] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:04.317 WARNING [http-apr-8088-exec-2] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:05.154 WARNING [http-apr-8088-exec-4] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:08.558 WARNING [http-apr-8088-exec-3] org.apache.catalina.realm.LockOutRealm.authenticate An attempt was made to authenticate the locked user "admin"
+11-Apr-2016 15:20:41.380 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+11-Apr-2016 15:20:41.381 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:20:41.437 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:20:41.487 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+11-Apr-2016 15:20:41.569 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:20:41.621 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:20:41.672 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:20:41.672 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:21:31.277 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.0.33
+11-Apr-2016 15:21:31.279 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 18 2016 20:31:49 UTC
+11-Apr-2016 15:21:31.279 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.0.33.0
+11-Apr-2016 15:21:31.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 7
+11-Apr-2016 15:21:31.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            6.1
+11-Apr-2016 15:21:31.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+11-Apr-2016 15:21:31.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             D:\jdk1.8u74\jre
+11-Apr-2016 15:21:31.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_74-b02
+11-Apr-2016 15:21:31.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+11-Apr-2016 15:21:31.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\apache-tomcat-8.0.33
+11-Apr-2016 15:21:31.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\apache-tomcat-8.0.33
+11-Apr-2016 15:21:31.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dhttp.nonProxyHosts=localhost|127.0.0.1|nkl-PC
+11-Apr-2016 15:21:31.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\apache-tomcat-8.0.33\conf\logging.properties
+11-Apr-2016 15:21:31.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+11-Apr-2016 15:21:31.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.endorsed.dirs=D:\apache-tomcat-8.0.33\endorsed
+11-Apr-2016 15:21:31.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\apache-tomcat-8.0.33
+11-Apr-2016 15:21:31.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\apache-tomcat-8.0.33
+11-Apr-2016 15:21:31.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\apache-tomcat-8.0.33\temp
+11-Apr-2016 15:21:31.284 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.5 using APR version 1.5.1.
+11-Apr-2016 15:21:31.284 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+11-Apr-2016 15:21:32.186 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2g  1 Mar 2016)
+11-Apr-2016 15:21:32.413 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:21:32.432 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:21:32.435 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1698 ms
+11-Apr-2016 15:21:32.480 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service Catalina
+11-Apr-2016 15:21:32.480 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.0.33
+11-Apr-2016 15:21:32.500 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\docs
+11-Apr-2016 15:21:33.395 INFO [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [504] milliseconds.
+11-Apr-2016 15:21:33.417 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\docs has finished in 917 ms
+11-Apr-2016 15:21:33.417 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\examples
+11-Apr-2016 15:21:33.930 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\examples has finished in 513 ms
+11-Apr-2016 15:21:33.931 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\host-manager
+11-Apr-2016 15:21:33.968 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\host-manager has finished in 37 ms
+11-Apr-2016 15:21:33.968 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\manager
+11-Apr-2016 15:21:33.999 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\manager has finished in 31 ms
+11-Apr-2016 15:21:33.999 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory D:\apache-tomcat-8.0.33\webapps\ROOT
+11-Apr-2016 15:21:34.023 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory D:\apache-tomcat-8.0.33\webapps\ROOT has finished in 24 ms
+11-Apr-2016 15:21:34.030 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:21:34.053 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:21:34.058 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 1623 ms
+11-Apr-2016 15:21:34.914 INFO [http-apr-8088-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying configuration descriptor D:\apache-tomcat-8.0.33\conf\Catalina\localhost\test.xml
+11-Apr-2016 15:21:34.997 INFO [http-apr-8088-exec-3] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of configuration descriptor D:\apache-tomcat-8.0.33\conf\Catalina\localhost\test.xml has finished in 82 ms
+11-Apr-2016 15:21:35.014 INFO [http-apr-8088-exec-2] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/test]] after start() had already been called. The second call will be ignored.
+11-Apr-2016 15:31:33.317 INFO [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+11-Apr-2016 15:31:33.319 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:31:33.374 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:31:33.425 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service Catalina
+11-Apr-2016 15:31:33.493 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:31:33.550 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["ajp-apr-8009"]
+11-Apr-2016 15:31:33.624 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-apr-8088"]
+11-Apr-2016 15:31:33.626 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["ajp-apr-8009"]
